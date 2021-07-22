@@ -1,0 +1,28 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px aqua;
+}
+.NOTE
+{
+    font-size: 15px;
+    color: azure;
+}
+.footer
+{
+    position: fixed;
+    color: ghostwhite;
+    bottom: 0;
+    width: 100%;
+    background-color:peru;
+    line-height: 3;
+    text-align: center;
+}
+canvas
+{
+    border: 5px solid firebrick;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px aqua;
+}
